@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sengence.github.io/sitemap.html.gz
+Sitemap: https://sengence.github.io/app/sitemap.html.gz
+Sitemap: https://sengence.github.io/assets/sitemap.html.gz
+Sitemap: https://sengence.github.io/css/sitemap.html.gz
+Sitemap: https://sengence.github.io/includes/sitemap.html.gz
+Sitemap: https://sengence.github.io/item/sitemap.html.gz
+Sitemap: https://sengence.github.io/src/sitemap.html.gz
